@@ -1,0 +1,10 @@
+
+{
+  "setStatus": "online",
+  "setActivity": "GhostX",
+  "successColor": "#00ff00",
+  "errorColor": "#ff0000",
+  "token": "",
+  "OpenAiApiKey": "",
+  "ChannelOpenAi": ""
+}
