@@ -1,10 +1,11 @@
 
 {
-  "setStatus": "online",
-  "setActivity": "GhostX",
+  "token": "",
   "successColor": "#00ff00",
   "errorColor": "#ff0000",
-  "token": "",
-  "OpenAiApiKey": "",
-  "ChannelOpenAi": ""
+  "openAiApiKey": "",
+  "setStatus": "online",
+  "setActivity": "bucu0368",
+  "ownerId": "1142053791781355561",
+  "feedBackChannel": "1385273334484435108"
 }
